@@ -36,16 +36,9 @@
    - 외부 데이터
         - 사용에 법적 제약이 없고 누가나 사용할 수 있는 **외부 데이터 사용 가능**
         - 법적 제약이 없으며 **공개된 사전 학습 모델(Pre-trained Model)** 사용 가능
-   
-# 2. 개발 환경
+        
 
-[Prepared CUDA based Image for this project]()
-
-```
-$ docker pull lotee/road-traffic
-```
-
-# 3. 데이터
+# 2. 데이터
 
 ```
 id : 샘플 별 아이디(ex: TRAIN_0000001)
